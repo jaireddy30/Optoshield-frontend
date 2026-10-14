@@ -1,0 +1,23 @@
+{
+  "name": "optox-shield-frontend",
+  "version": "2.0.0",
+  "description": "Pure Node.js SOC Frontend Dashboard & Telemetry Visualizer for Optox Shield",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "optox-shield",
+    "voip-security",
+    "asterisk",
+    "telemetry",
+    "dashboard",
+    "soc"
+  ],
+  "author": "TruTech Lab",
+  "license": "MIT"
+}
